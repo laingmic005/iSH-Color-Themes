@@ -2,7 +2,7 @@
     "shared": {
       "backgroundColor": "#1A1B26",
       "foregroundColor": "#FFB6C1",
-      "cursorColor": "#7AA2F7",
+      "cursorColor": "#ADD8E6",
       "colorPaletteOverrides": [
         "#565F89",
         "#F7768E",
